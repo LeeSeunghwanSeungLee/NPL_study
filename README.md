@@ -18,3 +18,11 @@
 > + nn.Module 을 이용한 클래스 구현
 > + One - hot - encoding 의 의미 <feat. One-hot-vector>
 > + SoftMax 회귀 ...ing
+
+-----------------------
+
+20-12-10
+> + 소프트맥스 회귀 클래스 (High level exercise)
+> + MNIST exmaple proejct -> test real image files I made
+> + Convolution Neural Network !! 
+> + MNIST example code using CNN!! 
