@@ -14,7 +14,9 @@ Deep Learning Study Repository!!
 ----------------------------
 [코로나 락다운 예측](./covid_lock_down_predict)
 
-> ...ing
+> matplot.pyplot, seaborn...
+> Random Forest 
+
 
 -----------------------------
 [자연어 처리 공부](./nlp_tutorial)
